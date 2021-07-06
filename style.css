@@ -1,0 +1,100 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #232323;
+    height: 100vh;
+    margin: 0;
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='1440' preserveAspectRatio='none' viewBox='0 0 1440 1440'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1048%26quot%3b)' fill='none'%3e%3crect width='1440' height='1440' x='0' y='0' fill='rgba(22%2c 30%2c 45%2c 1)'%3e%3c/rect%3e%3cpath d='M721 865L-91 53' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1246 851L200 -195' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1152 1084L1848 1780' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M985 1106L605 726' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1287 124L449 -714' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M403 539L1392 1528' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1394 1122L936 664' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M355 348L1175 1168' stroke-width='8' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M133 584L-367 84' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M935 305L473 -157' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M836 6L463 -367' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M766 1211L-295 150' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1074 567L548 41' stroke-width='8' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M134 1362L548 1776' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M970 760L1679 1469' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M651 459L-176 -368' stroke-width='6' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M114 515L553 954' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M322 264L-552 -610' stroke-width='6' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1389 251L2111 973' stroke-width='8' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M966 357L2024 1415' stroke-width='8' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M631 882L1185 1436' stroke-width='6' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M893 954L1616 1677' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1290 505L1896 1111' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M803 574L207 -22' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M504 1116L-560 52' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M214 88L967 841' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M368 1243L782 1657' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M389 225L859 695' stroke-width='6' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1359 1416L826 883' stroke-width='6' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1096 9L1652 565' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M683 328L286 -69' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M856 809L1872 1825' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1187 1055L1927 1795' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1243 1250L315 322' stroke-width='8' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1017 672L1948 1603' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M412 317L900 805' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M186 843L-613 44' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1287 1276L1720 1709' stroke-width='8' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1325 227L275 -823' stroke-width='6' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1342 953L2225 1836' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M261 633L-664 -292' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1043 916L349 222' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M773 1018L115 360' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M753 1276L1220 1743' stroke-width='10' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M926 157L1564 795' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M332 212L-339 -459' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1024 236L437 -351' stroke-width='8' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M288 1368L-483 597' stroke-width='6' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M219 1069L1130 1980' stroke-width='8' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1042 1151L1598 1707' stroke-width='10' stroke='url(%23SvgjsLinearGradient1050)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M491 349L1511 1369' stroke-width='6' stroke='url(%23SvgjsLinearGradient1049)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1048'%3e%3crect width='1440' height='1440' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='0%25' y1='0%25' x2='100%25' y2='100%25' id='SvgjsLinearGradient1049'%3e%3cstop stop-color='rgba(35%2c 49%2c 75%2c 0)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(35%2c 49%2c 75%2c 0.3)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='100%25' y1='100%25' x2='0%25' y2='0%25' id='SvgjsLinearGradient1050'%3e%3cstop stop-color='rgba(35%2c 49%2c 75%2c 0)' offset='0'%3e%3c/stop%3e%3cstop stop-color='rgba(35%2c 49%2c 75%2c 0.3)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+}
+
+div.router {
+    margin:100px auto;
+    width: 150px;
+    height:150px;
+    text-align:center;
+}
+div.line1{
+    margin-top:40px;margin-left:-15px;position:absolute;width: 400px;height:1px;border-bottom:3px dashed #d7d7d7;transform: rotate(125deg);
+}
+div.line2 {
+    margin-top:40px;margin-left:240px;position:absolute;width: 380px;height:1px;border-bottom:3px dashed #d7d7d7;transform: rotate(60deg);
+}
+div.line3 {
+    margin-top:80px;margin-left:235px;position:absolute;width: 170px;height:1px;border-bottom:3px dashed #d7d7d7;transform: rotate(90deg);
+}
+div.thm {
+    margin:0px 0px 0px 245px;
+    text-align:center;
+    width: 150px;
+    height:150px;
+}
+div.computer {
+    height: 150px;width:150px;position: absolute;
+    text-align: center;
+    color:#FFF;
+}
+div.computer span {
+    position: absolute;
+    margin-left:-150px;
+    margin-top:50px;
+    width:150px;
+    height:40px;
+    font-size:20px;
+    color:#FFF;
+    text-align: center;
+}
+div.computer1 {
+    margin-top:100px;
+    margin-left:50px;
+}
+
+div.computer1 button {
+    font-size:18px;
+}
+div.computer2 {
+    margin-left:400px;margin-top:100px;
+}
+
+div.computer2 input:disabled {
+    background-color: #FFF;
+    color: #8d8b8b;
+}
+
+div.packet {
+    position: absolute;
+    height: 20px;
+    width:20px;
+    background-color: #24a549;
+    border-radius: 360px;
+    z-index: 150;
+    transition: all 1s;
+}
+div.bin {
+    position: absolute;
+    height: 150px;
+    top:300px;
+    z-index: 100;
+    margin-left:30px;
+}
+
+
+input, button {padding: 5px; border: 1px rgb(155, 155, 155) solid; border-radius: 3px}
+button {
+    margin-top:10px;
+}
+
+input {
+    width:125px;text-align: center;
+}
+
+div.network {
+    width: 600px;
+    margin: auto;
+}
+
+img {
+    height:150px;
+}
+
+div.bin img {
+    height:150px;
+}
