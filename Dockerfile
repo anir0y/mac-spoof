@@ -11,9 +11,9 @@ RUN apt-get install git -y
 RUN apt-get install nginx -y
 
 RUN rm -rf /var/www/html
-RUN git clone https://github.com/ZeroBitSolutions/ /var/www/html
+RUN git clone https://github.com/anir0y/mac-spoof /var/www/html
 # Expose port 80
-EXPOSE 8000
+EXPOSE 80
  
 #
 # Last is the actual command to start up NGINX within our Container
